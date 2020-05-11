@@ -1,0 +1,7 @@
+PascalTimer	KEYWORD1
+istimer	KEYWORD2
+state	KEYWORD2
+reset	KEYWORD2
+get_dt	KEYWORD2
+enabled	KEYWORD2
+interval	KEYWORD2

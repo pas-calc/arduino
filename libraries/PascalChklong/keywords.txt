@@ -1,0 +1,9 @@
+PascalChklong	KEYWORD1
+get_check_bool	KEYWORD2
+get_check_bool_wait	KEYWORD2
+getcurrval	KEYWORD2
+update	KEYWORD2
+reset	KEYWORD2
+set_timeout	KEYWORD2
+checkled	KEYWORD2
+useled	KEYWORD2
